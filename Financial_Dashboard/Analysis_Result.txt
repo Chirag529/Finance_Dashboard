@@ -1,0 +1,6 @@
+Questions to answers from dashboard:
+1. How much money I spend per month ( in a given year)
+2. How much money save/spend per item category
+3. How much money per person?
+4. Financial Health
+5. Monthly savings per month
