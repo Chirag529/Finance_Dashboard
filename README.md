@@ -54,6 +54,7 @@
 </li>
 </ol>
 <h3 id="screenshots">Screenshots</h3>
-<p>![image](https://github.com/Chirag529/Finance_Dashboard/assets/87868888/91e37b7e-3768-4e65-bb45-8405835d93f5)
-</p>
+
+![258596499-91e37b7e-3768-4e65-bb45-8405835d93f5](https://github.com/Chirag529/Finance_Dashboard/assets/87868888/7781583b-0387-4f38-b7f8-93f8fb4cae43)
+
 
