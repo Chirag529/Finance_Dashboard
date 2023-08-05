@@ -54,5 +54,6 @@
 </li>
 </ol>
 <h3 id="screenshots">Screenshots</h3>
-<p>Include a few relevant screenshots of the dashboard to give users an idea of its appearance and layout.</p>
+<p>![image](https://github.com/Chirag529/Finance_Dashboard/assets/87868888/91e37b7e-3768-4e65-bb45-8405835d93f5)
+</p>
 
