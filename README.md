@@ -47,7 +47,7 @@
 <p><strong>How much money per person?</strong>: The dashboard allows users to track expenses per person, useful for managing shared expenses.</p>
 </li>
 <li>
-<p><strong>Financial Health</strong>: The dashboard offers insights into overall financial health based on income, expenses, and savings.</p>
+<p><strong>Financial Health: The dashboard offers insights into overall financial health based on income, expenses, and savings of the user.</p>
 </li>
 <li>
 <p><strong>Monthly savings per month</strong>: Users can monitor their monthly savings over time to stay on track with their financial goals.</p>
